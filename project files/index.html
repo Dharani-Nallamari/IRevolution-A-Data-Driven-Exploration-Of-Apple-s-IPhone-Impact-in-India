@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iRevolution: iPhone Impact in India</title>
+  <script type="module" src="https://prod-apsoutheast-b.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>iRevolution: A Data-driven Exploration of Apple's iPhone Impact in India</h1>
+  </header>
+
+  <main>
+
+    <h2>📊 Story View</h2>
+    <div class="viz-container">
+      <tableau-viz 
+        id="tableau-story"
+        src="https://prod-apsoutheast-b.online.tableau.com/t/ndharani7825-8409bcc464/views/Iphone_Apple_Sheet/Story1"
+        width="1536"
+        height="707"
+        hide-tabs
+        toolbar="bottom">
+      </tableau-viz>
+    </div>
+
+    <h2>📈 Dashboard View</h2>
+    <div class="viz-container">
+      <tableau-viz 
+        id="tableau-dashboard"
+        src="https://prod-apsoutheast-b.online.tableau.com/t/ndharani7825-8409bcc464/views/Iphone_Apple_dashboard/Dashboard1"
+        width="1536"
+        height="707"
+        hide-tabs
+        toolbar="bottom">
+      </tableau-viz>
+    </div>
+
+  </main>
+
+  <footer>
+    &copy; 2025 | Developed by Dharani N | Powered by Tableau
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
