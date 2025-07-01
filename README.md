@@ -18,6 +18,9 @@ Scenario 3: Cultural and Social Media Impact
 
 Through data visualization, the project assesses the cultural and social media impact of iPhone adoption in India. By analyzing sentiment and conversations on platforms like Twitter and Instagram, users can understand how the iPhone influences trends, lifestyles, and aspirations within Indian society. This insight helps stakeholders gauge brand perception and its role in shaping cultural narratives.
 
+Team ID -   LTVIP2025TMID52225
+
+
 
 Team Members:
 
